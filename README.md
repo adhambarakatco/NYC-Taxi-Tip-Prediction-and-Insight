@@ -60,7 +60,7 @@ Executed key data queries to explore trip and revenue patterns:
 
 ## 📝 Author
 
-This project was developed by [Your Name], as part of coursework in Big Data Analytics.
+This project was developed by Adham Hisham, as part of coursework in Big Data Analytics.
 
 ---
 
